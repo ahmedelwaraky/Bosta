@@ -1,0 +1,29 @@
+{
+    "details": "Details",
+    "branch":"Branch",
+    "address": "Delivery Address",
+    "date": " Date",
+    "time" : "Time",
+    "detail" :"details",
+    "clientAddress" :"Imbaba, Talaat Harb Street, Al-Ummal City, next to the Prince, House 17, Block 22, Cairo",
+    "problem": "Is there a problem with your shipment?!",
+    "button":"Report a problem",
+    "deliveryNumber":"delivery number",
+    "LastUpdated":"Last Updated",
+    "MerchantName": "Merchant Name",
+    "DeliveryTime " : "Delivery time within",
+    "shipmentCreated" :"The shipment has been created",
+    "shipmentMerchant" :"The shipment has been received from the merchant",
+    "shipmentDelivery" :"The shipment is out for delivery",
+    "deliveredHanded" :"sent delivered handed",
+    "main": "Main ",
+    "AllSales" : "All Sales",
+    "prices" : " Prices", 
+    "trackShipment" :"Track the shipment",
+    "signOut" : "Sign Out",
+    "TrackYourShipment" : "Track your shipment",
+    "trackingNumber":"Tracking Number"
+
+
+
+}

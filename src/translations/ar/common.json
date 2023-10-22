@@ -1,0 +1,35 @@
+{
+    "details": "تفاصيل الشحنة",
+    "address": "عنوان التسليم",
+    "branch":"الفرع",
+    "date": "التاريخ",
+    "time" : "الوقت",
+    "detail" : "التفاصيل" ,
+    "clientAddress" : "امبابة شارع طلعت حرب, مدينة العمال, بجوار البرنس, منزل 17, بلوك 22 , القاهرة ",
+    "problem": "هل يوجد مشكلة في شحنتك ؟!",
+    "button":"إبلاغ عن مشكلة ",
+    "deliveryNumber":"رقم الشحنة ",
+    "LastUpdated":"اخر تحديث",
+    "MerchantName": "اسم التاجر",
+    "DeliveryTime " : "موعد التسليم خلال",
+    "shipmentCreated" :"تم انشاء الشحنة ",
+    "shipmentMerchant" :"تم أستلام الشحنة من التاجر ",
+    "shipmentDelivery" :"الشحنة خرجت للتسليم ",
+    "deliveredHanded" :"تم التسليم ",
+    "main": "الرئيسية ",
+    "AllSales" : "كل المبيعات ",
+    "prices" : " الأسعار",
+    "trackShipment" :"تتبع الشحنة ",
+    "signOut" : "تسجيل الخروج",
+    "TrackYourShipment" : "تتبع شحنتك",
+    "trackingNumber":"رقم التتبع"
+
+
+
+
+
+
+
+
+
+}
